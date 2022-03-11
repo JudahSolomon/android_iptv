@@ -4,6 +4,14 @@
  </div>
  
  ---
+ 
+ ##About the App
+ this is an Android TV App i contributed to during Hacktoberfest 2021
+ 
+ ## Tools Used
+ 1. Java
+ 2. Kotlin
+ 3. XML
 
 An awesome example of android iptv implementation parsing m3u-m3u8 files from internet.
 
