@@ -5,8 +5,8 @@
  
  ---
  
- ##About the App
- this is an Android TV App i contributed to during Hacktoberfest 2021
+
+ This is an Android TV App i contributed to during Hacktoberfest 2021
  
  ## Tools Used
  1. Java
